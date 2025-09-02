@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a student in LAB university of applied sciences where i am studying Bachelor of Engineering, Industrical Information Technology. I am using this GitHub profile to save all my projects and my learnings. 
 <!--
 **PrafulS22001/PrafulS22001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
